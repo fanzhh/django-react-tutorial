@@ -1,0 +1,7 @@
+node_modules/
+front/.next/
+env/
+__pycache__/
+magrations/
+.next/
+.vscode/
